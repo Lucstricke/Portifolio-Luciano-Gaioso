@@ -63,7 +63,7 @@ p {
 
 #presentation h1 {
     display: flex;
-    width: fit-content;
+    width:auto;
     font-size: 5rem;
     position: relative;
     color: transparent;
