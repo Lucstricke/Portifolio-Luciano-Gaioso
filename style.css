@@ -101,9 +101,9 @@ p {
 }
 
 #presentation .cta:hover {
-    color: white;
+    color: #0a173a;
     font-weight: 500;
-    background-color: gold;
+    background-color: #c3dff5;
 }
 
 
@@ -115,7 +115,7 @@ p {
     width: 0%;
     animation: text_reveal_box 1s ease;
     animation-delay: .5s;
-    background-color: gold;
+    background-color: #4f7ed8;
 }
 
 #presentation h1:nth-child(1) span {
